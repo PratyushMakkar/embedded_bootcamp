@@ -1,0 +1,8 @@
+19:08:16 **** Incremental Build of configuration Release for project 2021-Firmware-Bootcamp ****
+make -j4 all 
+Error: Cannot find the specified linker script. Check the linker settings in the build configuration.
+make: *** [makefile:87: fail-specified-linker-script-missing] Error 2
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
+
+19:08:17 Build Failed. 2 errors, 0 warnings. (took 506ms)
+
